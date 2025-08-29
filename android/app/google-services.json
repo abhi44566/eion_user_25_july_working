@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756550094376",
+    "project_id": "eion-43129",
+    "storage_bucket": "eion-43129.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756550094376:android:6cfae29fce6729dbc9af1d",
+        "android_client_info": {
+          "package_name": "com.isoftinc.eion_customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXhUxvztHBmjppihqJiiXuS8k9yMMFlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756550094376:android:88d49f18cee714a4c9af1d",
+        "android_client_info": {
+          "package_name": "com.isoftinc.eion_partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXhUxvztHBmjppihqJiiXuS8k9yMMFlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

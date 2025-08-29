@@ -1,0 +1,2 @@
+/Users/krishnakumar/Documents/driver_suvidha_user/android/app/.cxx/Debug/1z5a17x5/x86/CMakeFiles/edit_cache.dir
+/Users/krishnakumar/Documents/driver_suvidha_user/android/app/.cxx/Debug/1z5a17x5/x86/CMakeFiles/rebuild_cache.dir
